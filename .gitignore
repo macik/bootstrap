@@ -4,3 +4,6 @@ components
 jam
 node_modules
 composer.lock
+.settings
+.project
+.buildpath
